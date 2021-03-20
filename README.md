@@ -38,3 +38,6 @@ Refactored by Lily
 
 Screenshots displaying full site:
 
+![Screenshot top half of Horiseon](./assets/images/Horiseon1.png)
+![Screenshot bottom half of Horiseon](./assets/images/Horiseon2.png)
+
