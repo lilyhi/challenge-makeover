@@ -1,16 +1,16 @@
 # Challenge Makeover
 
-##Purpose
+## Purpose
 
 Refactoring a marketing solution webpage to meet accessibility standards.
 
-##User Story
+## User Story
 
 AS A marketing agency
 I WANT a codebase that follows accessibility standards</br>
 SO THAT our own site is optimized for search engines</br>
 
-##Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN a webpage meets accessibility standards
 * WHEN I view the source code
